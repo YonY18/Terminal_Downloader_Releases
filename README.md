@@ -33,6 +33,7 @@ The source code is maintained in a private repository.
    ```
    Terminal_Downloader_vX.X.X.exe
    ```
+![Downloads](https://img.shields.io/github/downloads/YonY18/Terminal_Downloader_Releases/total?style=for-the-badge&color=red)
 
 3. Double-click to run.
 
