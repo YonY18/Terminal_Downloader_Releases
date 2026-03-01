@@ -23,7 +23,7 @@ The source code is maintained in a private repository.
 ---
 
 ## ⬇️ Download
-![Downloads](https://img.shields.io/github/downloads/YonY18/Terminal_Downloader_Releases/total?style=for-the-badge&color=red)
+![Downloads](https://img.shields.io/github/downloads/YonY18/Terminal_Downloader_Releases/releases/total?style=for-the-badge&color=red)
 
 1. Go to the **Releases** section:
 
