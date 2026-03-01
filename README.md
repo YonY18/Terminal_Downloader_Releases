@@ -27,7 +27,7 @@ The source code is maintained in a private repository.
 
 1. Go to the **Releases** section:
 
-   👉 https://github.com/YonY18/Terminal_Downloader/releases
+   👉 https://github.com/YonY18/Terminal_Downloader_Releases
 
 2. Download the latest version:
 
