@@ -95,5 +95,5 @@ Developed by **Jonathan P**
 ## 📜 License & Usage
 
 © 2026 Jonathan P. All rights reserved.
-  This software is distributed "as is" for educational and personal use.
-  Use responsibly and respect the terms of service of the supported platforms.
+ - This software is distributed "as is" for educational and personal use.
+ - Use responsibly and respect the terms of service of the supported platforms.
