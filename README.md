@@ -61,6 +61,12 @@ Note: The source code is maintained in a private repository for development.
    ```
 3. Ejecútalo directamente sin instalar nada.
 
+### 🍓 Raspberry Pi & ARM64
+1. Descarga el paquete `terminal-downloader_vX.X.X_arm64.deb`.
+2. Instálalo en tu Raspberry Pi (64-bit OS) con:
+   ```bash
+   sudo apt install ./terminal-downloader_vX.X.X_arm64.deb
+   ```
 ---
 
 ## 🔄 Automatic Updates
