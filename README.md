@@ -53,6 +53,14 @@ Note: The source code is maintained in a private repository for development.
     ```
 3.  **Note:** Requires `ffmpeg` (It is automatically installed as a dependency).
 
+### 🐧 Linux Portable (AppImage)
+1. Descarga el archivo `TerminalDownloader_vX.X.X_x86_64.AppImage`.
+2. Dale permisos de ejecución:
+   ```bash
+   chmod +x TerminalDownloader_vX.X.X_x86_64.AppImage
+   ```
+3. Ejecútalo directamente sin instalar nada.
+
 ---
 
 ## 🔄 Automatic Updates
