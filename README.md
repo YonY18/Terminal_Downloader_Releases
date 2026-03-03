@@ -30,9 +30,7 @@ Note: The source code is maintained in a private repository for development.
 
 ## ⬇️ Download
 ![GitHub release](https://img.shields.io/github/v/release/YonY18/Terminal_Downloader_Releases?style=for-the-badge&cacheSeconds=60)
-![Downloads](https://img.shields.io/github/downloads/YonY18/Terminal_Downloader_Releases/latest/total?style=for-the-badge&color=red&cacheSeconds=60)
 ![Downloads](https://img.shields.io/github/downloads/YonY18/Terminal_Downloader_Releases/total?style=for-the-badge&color=red&cacheSeconds=60)
-![License](https://img.shields.io/github/license/YonY18/Terminal_Downloader_Releases?style=for-the-badge&cacheSeconds=60)
 
 1. **Go to the latest Release:**
    👉 [Download Latest Version](https://github.com/YonY18/Terminal_Downloader_Releases/releases/latest)
